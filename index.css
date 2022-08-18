@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    
+    background-color: midnightblue;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    height: 1px;
+}
+p {
+    background: black;
+    height: 50px;
+    width: 70px;
+    color: darkred;
+    font-size: 50px;
+    text-align: center;
+    border-radius: 5px;
+}
+button {
+    background-color: midnightblue;
+    color: white;
+    border-color: white;
+    border-radius: 5px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
